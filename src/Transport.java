@@ -22,9 +22,5 @@ public class Transport {
         System.out.println("Меняем покрышку");
     }
 
-    public void checkEngine() {
-    }
 
-    public void checkTrailer() {
-    }
 }
